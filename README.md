@@ -3,5 +3,5 @@
 code and documentation of exercises on arrays given in class.
 
 ### Here is the documentation:
-[Documentation](https://gabriel-gald1n0.github.io/exercises_arrays_c_uesc/)https://gabriel-gald1n0.github.io/exercises_arrays_c_uesc/)
+[Documentation](https://gabriel-gald1n0.github.io/exercises_arrays_c_uesc/)
 
